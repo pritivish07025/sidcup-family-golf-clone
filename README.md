@@ -1,4 +1,4 @@
-# Sidcup Family Golf Clone 🏌️‍♂️
+# Sidcup Family Golf Clone 
 
 This is a fully responsive animated clone of the official **Sidcup Family Golf** website built using:
 
@@ -13,12 +13,7 @@ This is a fully responsive animated clone of the official **Sidcup Family Golf**
 - Fully responsive layout
 - Smooth hover animations
 
-## Live Demo
-[View Live Demo](https://sidcup-family-golf-clone.netlify.app/)
-
-## Screenshot
-_Add a screenshot if possible_
 
 ## Author
-- [Your Name](https://github.com/yourusername)
+- Priti Vishwakarma
 
