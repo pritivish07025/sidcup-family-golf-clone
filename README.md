@@ -13,6 +13,9 @@ This is a fully responsive animated clone of the official **Sidcup Family Golf**
 - Fully responsive layout
 - Smooth hover animations
 
+## 🔗 Live Demo
+
+[Play Balloon Pop Game Online](https://pritivish07025.github.io/sidcup-family-golf-clone/)
 
 ## Author
 - Priti Vishwakarma
